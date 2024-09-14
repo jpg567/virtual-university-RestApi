@@ -1,6 +1,6 @@
 import { IsEmail, IsEnum, IsNotEmpty, Length, MinLength } from "class-validator";
 import { Lesson } from "../lesson/lesson.entity";
-import { Column, Entity, JoinTable, ManyToMany, ManyToOne, PrimaryGeneratedColumn } from "typeorm";
+import { Column, Entity, JoinTable, ManyToMany, PrimaryGeneratedColumn } from "typeorm";
 
 export enum Major {
   Computer = "Computer",
