@@ -28,7 +28,6 @@ export class StudentService {
         return student
     }
     async create(input): Promise<Student> {
-        // return input
         return await this.studentRepository.save(
         {
             ...input,
