@@ -1,7 +1,7 @@
 
 # Virtual University
 
-#### This is a Restful-api project with authentication and authorization.
+ This is a Restful-api project with authentication and authorization.
 
 ## Features
 
