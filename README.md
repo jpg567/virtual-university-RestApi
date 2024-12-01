@@ -5,13 +5,13 @@
 
 ## Features
 
-#### 🟥 create/read/update/delete for Students and Lessons
+ 🟥 create/read/update/delete for Students and Lessons
 
-#### 🟥 Students can add or delete own Lessons 
+ 🟥 Students can add or delete own Lessons 
 
-#### 🟥 Authorization with SMS
+ 🟥 Authorization with SMS
 
-#### 🟥 Test Students (jest)
+ 🟥 Test Students (jest)
 
 ## Compile and run the project
 ```bash
